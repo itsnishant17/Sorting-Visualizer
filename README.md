@@ -15,7 +15,7 @@ This web application, developed using React, allows users to visualize the sorti
 - CSS
 - JavaScript
 
-##Screenshot 
+## Screenshot 
 
 ![image](https://github.com/itsnishant17/Sorting-Visualizer/assets/72322325/461df4cc-f119-41d9-b50f-dbe1e02ce9c0)
 
