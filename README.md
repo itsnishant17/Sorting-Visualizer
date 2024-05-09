@@ -1,6 +1,7 @@
 # Sorting Visualizer
 
 This web application, allows users to visualize the sorting process in real-time. It demonstrates various sorting algorithms to showcase different approaches to sorting data.
+-[Live](https://itsnishant17.github.io/Sorting-Visualizer/)
 
 ## Features
 
