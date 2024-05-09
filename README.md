@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-This web application, developed using React, allows users to visualize the sorting process in real-time. It demonstrates various sorting algorithms to showcase different approaches to sorting data.
+This web application, allows users to visualize the sorting process in real-time. It demonstrates various sorting algorithms to showcase different approaches to sorting data.
 
 ## Features
 
@@ -10,7 +10,6 @@ This web application, developed using React, allows users to visualize the sorti
 
 ## Tech Stack
 
-- React.js
 - HTML
 - CSS
 - JavaScript
